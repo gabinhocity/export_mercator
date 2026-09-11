@@ -81,7 +81,7 @@ Le script utilise un stockage sécurisé DPAPI Windows.
 
 Créer une seule fois le fichier :
 
-$Path = "C:\ROBOCOPY\Mercator\mercator_cred.xml"
+$Path = "C:\Mercator\mercator_cred.xml"
 
 Get-Credential | Export-Clixml -Path $Path
 
@@ -94,7 +94,7 @@ Mot de passe : ********
 
 
 Le fichier créé :
-C:\ROBOCOPY\Mercator\mercator_cred.xml
+C:\Mercator\mercator_cred.xml
 
 
 est chiffré par Windows et ne peut être relu que par :
