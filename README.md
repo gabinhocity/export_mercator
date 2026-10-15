@@ -2,7 +2,7 @@
 # Powershell sauvegarde Mercator par API REST 
 
 Script PowerShell permettant la sauvegarde complète d'une instance Mercator via l'API REST avec génération d'un référentiel de crise autonome consultable hors ligne.
-
+https://github.com/sourcentis/mercator
 
 Le script exporte automatiquement l'ensemble des objets de cartographie disponibles via l'API Mercator :
 
